@@ -1,4 +1,18 @@
 # Hack-NECS.github.io
-<h1>Mr.Thanan Potiwat</h1>
-<p><h2>นายฐานันด์ โพธิวัฒน์</h2></p>
 
+## Mr.Thanan Potiwat (นายฐานันด์ โพธิวัฒน์)
+
+### Hobbies
+* Watch Racing
+* Play Guitar
+
+### Computer Skills
+
+#### Network
+* Config network
+* Install Rack Server
+
+#### Programming
+* C++
+* C#
+* HTML
